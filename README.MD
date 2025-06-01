@@ -10,6 +10,7 @@ C:\Users\s\Desktop\flask-app> python -m venv venv
 
 🔹 **Activate the virtual environment** 
 C:\Users\s\Desktop\flask-app> venv\Scripts\activate
+
 (venv) PS C:\Users\s\Desktop\flask-app> 
 _____________________________________________________
 
