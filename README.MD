@@ -54,7 +54,7 @@ Authorization    Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2U
 Notes: the long string is the token from login API call
 _______________________________________________________
 
-http://localhost:5000/users/update-role/4
+PUT http://localhost:5000/users/update-role/4
 
 JSON: 
 {
@@ -66,7 +66,7 @@ Authorization    Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2U
 Notes: the number 4 is the user id we want to update roles
 _______________________________________________________
 
-http://localhost:5000/users/delete/4
+DELETE http://localhost:5000/users/delete/4
 
 Authorization    Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc0ODc1MjgzNiwianRpIjoiZWE3YWFmNzAtNmMzMi00YzdiLTljOGItOTJiYWYyNTMwNmNlIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEiLCJuYmYiOjE3NDg3NTI4MzYsImNzcmYiOiJmMjBkMGY3Yy05NGQ1LTQ1M2UtODY4Yy01YWVmNmE4YjEwNjkiLCJleHAiOjE3NDg3NTM3MzYsInJvbGUiOiJhZG1pbiJ9.NQcc3z0rHHrC74qtqoL8eiQ2RGF63zXiLDDeydSENHk
 
