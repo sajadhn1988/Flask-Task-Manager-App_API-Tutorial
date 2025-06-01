@@ -16,7 +16,7 @@ _____________________________________________________
 
 ## 📋 Step 2: Adding new requirement Packages:
 
-pip install -r requirements.txt
+(venv) PS C:\Users\s\Desktop\flask-app> pip install -r requirements.txt
 _____________________________________________________
 
 ## 🧿 Step 3: Running the Flask app
