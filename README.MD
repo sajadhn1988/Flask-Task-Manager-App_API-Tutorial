@@ -101,7 +101,7 @@ JSON:
 Note: Only ['admin', 'editor'] can use this API
 _______________________________________________________
 
-http://localhost:5000/tasks/get-all
+GET http://localhost:5000/tasks/get-all
 
 Authorization    Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTc0ODc1MjgzNiwianRpIjoiZWE3YWFmNzAtNmMzMi00YzdiLTljOGItOTJiYWYyNTMwNmNlIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6IjEiLCJuYmYiOjE3NDg3NTI4MzYsImNzcmYiOiJmMjBkMGY3Yy05NGQ1LTQ1M2UtODY4Yy01YWVmNmE4YjEwNjkiLCJleHAiOjE3NDg3NTM3MzYsInJvbGUiOiJhZG1pbiJ9.NQcc3z0rHHrC74qtqoL8eiQ2RGF63zXiLDDeydSENHk
 
